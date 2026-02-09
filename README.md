@@ -1,3 +1,9 @@
+# Migration to CodeBerg
+
+JBSP has migrated to EU-based CodeBerg! https://codeberg.org/atsb/JBSP
+
+No further developments will be done here and the repo will be closed on GitHub in 6 months.
+
 # JBSP
 JBSP - a conservative Java rewrite of BSP 1.1 for DOOM/DOOM II
 
